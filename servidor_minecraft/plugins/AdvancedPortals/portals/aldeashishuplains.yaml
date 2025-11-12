@@ -1,0 +1,21 @@
+args:
+  particlein:
+  - heart
+  name:
+  - aldeashishuplains
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - aldeashishuplainsnether
+  particleout:
+  - heart
+maxLoc:
+  posX: -1530
+  posY: 75
+  posZ: -5580
+  worldName: world
+minLoc:
+  posX: -1534
+  posY: 71
+  posZ: -5580
+  worldName: world

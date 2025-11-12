@@ -1,0 +1,17 @@
+args:
+  name:
+  - shinganshina1nether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - shinganshina1
+maxLoc:
+  posX: 213
+  posY: 44
+  posZ: -70
+  worldName: world_nether
+minLoc:
+  posX: 213
+  posY: 41
+  posZ: -74
+  worldName: world_nether

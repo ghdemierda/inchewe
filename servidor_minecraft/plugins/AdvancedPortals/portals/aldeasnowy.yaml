@@ -1,0 +1,21 @@
+args:
+  particlein:
+  - heart
+  name:
+  - aldeasnowy
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - aldeasnowynether
+  particleout:
+  - heart
+maxLoc:
+  posX: -4088
+  posY: 76
+  posZ: -6358
+  worldName: world
+minLoc:
+  posX: -4088
+  posY: 72
+  posZ: -6362
+  worldName: world

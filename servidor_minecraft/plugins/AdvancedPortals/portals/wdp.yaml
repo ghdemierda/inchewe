@@ -1,0 +1,17 @@
+args:
+  name:
+  - wdp
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - sh1
+maxLoc:
+  posX: 1439
+  posY: 71
+  posZ: -957
+  worldName: world
+minLoc:
+  posX: 1435
+  posY: 68
+  posZ: -957
+  worldName: world

@@ -1,0 +1,21 @@
+args:
+  particlein:
+  - heart
+  name:
+  - aldeajungla2nether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - aldeajungla2
+  particleout:
+  - heart
+maxLoc:
+  posX: 403
+  posY: 44
+  posZ: -14
+  worldName: world_nether
+minLoc:
+  posX: 399
+  posY: 40
+  posZ: -14
+  worldName: world_nether

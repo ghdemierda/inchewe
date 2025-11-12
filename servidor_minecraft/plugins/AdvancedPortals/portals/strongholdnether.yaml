@@ -1,0 +1,23 @@
+args:
+  particlein:
+  - heart
+  name:
+  - strongholdnether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - stronghold
+  permission:
+  - mob.teleport
+  particleout:
+  - heart
+maxLoc:
+  posX: 300
+  posY: 44
+  posZ: -540
+  worldName: world_nether
+minLoc:
+  posX: 300
+  posY: 40
+  posZ: -544
+  worldName: world_nether

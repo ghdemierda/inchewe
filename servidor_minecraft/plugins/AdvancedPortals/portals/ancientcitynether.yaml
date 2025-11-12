@@ -1,0 +1,17 @@
+args:
+  name:
+  - ancientcitynether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - ancientcity
+maxLoc:
+  posX: -227
+  posY: 44
+  posZ: -129
+  worldName: world_nether
+minLoc:
+  posX: -231
+  posY: 40
+  posZ: -129
+  worldName: world_nether

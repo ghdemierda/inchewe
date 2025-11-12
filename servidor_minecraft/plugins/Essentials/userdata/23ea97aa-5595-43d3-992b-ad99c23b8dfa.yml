@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.101.18.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718087473500
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1762915257213
+  login: 1762907581197
+money: '0'
+lastlocation:
+  world: f6e78fec-42c7-4349-942f-8af3f61296f1
+  world-name: world
+  x: 1549.5
+  y: 67.0
+  z: -840.5
+  yaw: -19.78407859802246
+  pitch: 16.35702133178711
+logoutlocation:
+  world: f6e78fec-42c7-4349-942f-8af3f61296f1
+  world-name: world
+  x: -4834.316111839509
+  y: 108.26203381198874
+  z: -5978.091933833158
+  yaw: 53.935943603515625
+  pitch: 62.75471115112305
+last-account-name: Singularity7k
+past-usernames:
+- Fr4nko7k

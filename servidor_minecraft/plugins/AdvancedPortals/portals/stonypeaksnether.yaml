@@ -1,0 +1,23 @@
+args:
+  particlein:
+  - heart
+  name:
+  - stonypeaksnether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - stonypeaks
+  permission:
+  - mob.teleport
+  particleout:
+  - heart
+maxLoc:
+  posX: 209
+  posY: 44
+  posZ: -1904
+  worldName: world_nether
+minLoc:
+  posX: 205
+  posY: 40
+  posZ: -1904
+  worldName: world_nether

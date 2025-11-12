@@ -1,0 +1,21 @@
+args:
+  particlein:
+  - heart
+  name:
+  - junglanether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - jungla
+  particleout:
+  - heart
+maxLoc:
+  posX: -182
+  posY: 44
+  posZ: -564
+  worldName: world_nether
+minLoc:
+  posX: -186
+  posY: 40
+  posZ: -564
+  worldName: world_nether

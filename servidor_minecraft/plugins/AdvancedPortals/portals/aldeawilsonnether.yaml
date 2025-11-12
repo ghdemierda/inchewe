@@ -1,0 +1,23 @@
+args:
+  particlein:
+  - heart
+  name:
+  - aldeawilsonnether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - aldeawilson
+  permission:
+  - mob.teleport
+  particleout:
+  - heart
+maxLoc:
+  posX: -264
+  posY: 44
+  posZ: -1045
+  worldName: world_nether
+minLoc:
+  posX: -264
+  posY: 40
+  posZ: -1049
+  worldName: world_nether

@@ -1,0 +1,21 @@
+args:
+  particlein:
+  - heart
+  name:
+  - aldeadarkforest
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - aldeadarkforest
+  particleout:
+  - heart
+maxLoc:
+  posX: 2188
+  posY: 49
+  posZ: -3788
+  worldName: world
+minLoc:
+  posX: 2184
+  posY: 45
+  posZ: -3788
+  worldName: world

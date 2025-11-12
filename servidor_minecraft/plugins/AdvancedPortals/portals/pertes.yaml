@@ -1,0 +1,17 @@
+args:
+  name:
+  - pertes
+  triggerblock:
+  - PINK_STAINED_GLASS_PANE
+  destination:
+  - añoña
+maxLoc:
+  posX: 1478
+  posY: 82
+  posZ: -1211
+  worldName: world
+minLoc:
+  posX: 1478
+  posY: 79
+  posZ: -1214
+  worldName: world

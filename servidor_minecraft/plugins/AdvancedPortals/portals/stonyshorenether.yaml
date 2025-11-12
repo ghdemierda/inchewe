@@ -1,0 +1,23 @@
+args:
+  particlein:
+  - heart
+  name:
+  - stonyshorenether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - stonyshore
+  permission:
+  - mob.teleport
+  particleout:
+  - heart
+maxLoc:
+  posX: 275
+  posY: 44
+  posZ: -953
+  worldName: world_nether
+minLoc:
+  posX: 275
+  posY: 40
+  posZ: -957
+  worldName: world_nether

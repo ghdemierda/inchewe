@@ -1,0 +1,21 @@
+args:
+  particlein:
+  - heart
+  name:
+  - portalcentralnether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - portalcentral
+  particleout:
+  - heart
+maxLoc:
+  posX: 187
+  posY: 44
+  posZ: -142
+  worldName: world_nether
+minLoc:
+  posX: 187
+  posY: 40
+  posZ: -146
+  worldName: world_nether

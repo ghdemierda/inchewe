@@ -1,0 +1,19 @@
+args:
+  name:
+  - test
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - test
+  permission:
+  - mob.teleporting
+maxLoc:
+  posX: 55
+  posY: 79
+  posZ: -3152
+  worldName: world
+minLoc:
+  posX: 51
+  posY: 75
+  posZ: -3152
+  worldName: world

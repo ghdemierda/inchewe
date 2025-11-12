@@ -1,0 +1,23 @@
+args:
+  particlein:
+  - heart
+  name:
+  - birchforest
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - birchforestnether
+  permission:
+  - mob.teleport
+  particleout:
+  - heart
+maxLoc:
+  posX: 2671
+  posY: 67
+  posZ: -8714
+  worldName: world
+minLoc:
+  posX: 2671
+  posY: 63
+  posZ: -8718
+  worldName: world

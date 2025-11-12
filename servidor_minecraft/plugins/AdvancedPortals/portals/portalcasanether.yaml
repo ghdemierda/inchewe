@@ -1,0 +1,17 @@
+args:
+  name:
+  - portalcasanether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - portalcasa
+maxLoc:
+  posX: 202
+  posY: 44
+  posZ: -107
+  worldName: world_nether
+minLoc:
+  posX: 198
+  posY: 40
+  posZ: -107
+  worldName: world_nether

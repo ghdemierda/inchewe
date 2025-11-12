@@ -1,0 +1,21 @@
+args:
+  particlein:
+  - heart
+  name:
+  - aldeamushroomsnether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - aldeamushrooms
+  particleout:
+  - heart
+maxLoc:
+  posX: 265
+  posY: 44
+  posZ: -133
+  worldName: world_nether
+minLoc:
+  posX: 261
+  posY: 40
+  posZ: -133
+  worldName: world_nether

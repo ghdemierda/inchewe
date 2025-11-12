@@ -1,0 +1,17 @@
+args:
+  name:
+  - mangrooveswampnether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - mangrooveswamp
+maxLoc:
+  posX: -109
+  posY: 44
+  posZ: 156
+  worldName: world_nether
+minLoc:
+  posX: -109
+  posY: 40
+  posZ: 152
+  worldName: world_nether

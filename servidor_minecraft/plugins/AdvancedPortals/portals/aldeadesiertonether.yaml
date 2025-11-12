@@ -1,0 +1,21 @@
+args:
+  particlein:
+  - heart
+  name:
+  - aldeadesiertonether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - aldeadesierto
+  particleout:
+  - heart
+maxLoc:
+  posX: -199
+  posY: 44
+  posZ: -1018
+  worldName: world_nether
+minLoc:
+  posX: -203
+  posY: 40
+  posZ: -1018
+  worldName: world_nether

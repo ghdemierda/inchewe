@@ -1,0 +1,17 @@
+args:
+  name:
+  - shinganshina1
+  triggerblock:
+  - GLASS_PANE
+  destination:
+  - sh1nether
+maxLoc:
+  posX: -564
+  posY: 68
+  posZ: -38
+  worldName: shinganshina1
+minLoc:
+  posX: -564
+  posY: 65
+  posZ: -42
+  worldName: shinganshina1

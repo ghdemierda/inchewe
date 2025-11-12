@@ -1,0 +1,11 @@
+a_name asda
+a_version 1.11
+a_author s1ngxl4rity
+
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+
+:button instalar_modpack
+text Instalar Modpack
+download_file https://www.dropbox.com/scl/fi/d3c8zl7sejs5xpbhj0s2s/elserbidorDEFINITIVO.zip?rlkey=gzo543wrf325qdpbfimy10zui&st=67hxp41g&dl=1 singu.zip
+exec unzip singu.zip
+exec rm singu.zip

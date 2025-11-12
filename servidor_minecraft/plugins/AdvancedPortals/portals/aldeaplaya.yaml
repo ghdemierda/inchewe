@@ -1,0 +1,21 @@
+args:
+  particlein:
+  - heart
+  name:
+  - aldeaplaya
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - aldeaplayanether
+  particleout:
+  - heart
+maxLoc:
+  posX: -2722
+  posY: 66
+  posZ: 1042
+  worldName: world
+minLoc:
+  posX: -2722
+  posY: 62
+  posZ: 1038
+  worldName: world

@@ -1,0 +1,21 @@
+args:
+  particlein:
+  - heart
+  name:
+  - aldeataiga
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - aldeataiganether
+  particleout:
+  - heart
+maxLoc:
+  posX: -3960
+  posY: 66
+  posZ: -5802
+  worldName: world
+minLoc:
+  posX: -3964
+  posY: 62
+  posZ: -5802
+  worldName: world

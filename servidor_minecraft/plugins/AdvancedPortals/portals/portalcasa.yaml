@@ -1,0 +1,17 @@
+args:
+  name:
+  - portalcasa
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - portalcasanether
+maxLoc:
+  posX: 1589
+  posY: 92
+  posZ: -814
+  worldName: world
+minLoc:
+  posX: 1581
+  posY: 87
+  posZ: -814
+  worldName: world

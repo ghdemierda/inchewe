@@ -1,0 +1,21 @@
+args:
+  particlein:
+  - heart
+  name:
+  - aldeadarkforestnether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - aldeadarkforestover
+  particleout:
+  - heart
+maxLoc:
+  posX: 275
+  posY: 44
+  posZ: -485
+  worldName: world_nether
+minLoc:
+  posX: 271
+  posY: 40
+  posZ: -485
+  worldName: world_nether

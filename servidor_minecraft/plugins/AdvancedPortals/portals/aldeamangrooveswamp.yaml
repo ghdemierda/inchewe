@@ -1,0 +1,21 @@
+args:
+  particlein:
+  - heart
+  name:
+  - aldeamangrooveswamp
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - aldeamangrooveswampnether
+  particleout:
+  - heart
+maxLoc:
+  posX: 1711
+  posY: 89
+  posZ: 534
+  worldName: world
+minLoc:
+  posX: 1711
+  posY: 85
+  posZ: 530
+  worldName: world

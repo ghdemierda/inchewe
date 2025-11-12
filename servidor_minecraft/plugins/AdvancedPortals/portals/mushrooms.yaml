@@ -1,0 +1,17 @@
+args:
+  name:
+  - mushrooms
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - mushroomsnether
+maxLoc:
+  posX: -4873
+  posY: 71
+  posZ: 11330
+  worldName: world
+minLoc:
+  posX: -4873
+  posY: 67
+  posZ: 11326
+  worldName: world

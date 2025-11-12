@@ -1,0 +1,17 @@
+args:
+  name:
+  - aldeaplainsnether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - aldeaplains
+maxLoc:
+  posX: 32
+  posY: 44
+  posZ: -403
+  worldName: world_nether
+minLoc:
+  posX: 28
+  posY: 40
+  posZ: -403
+  worldName: world_nether

@@ -1,0 +1,23 @@
+args:
+  particlein:
+  - heart
+  name:
+  - badlandsnether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - badlands
+  permission:
+  - mob.teleport
+  particleout:
+  - heart
+maxLoc:
+  posX: -199
+  posY: 44
+  posZ: -1104
+  worldName: world_nether
+minLoc:
+  posX: -203
+  posY: 40
+  posZ: -1104
+  worldName: world_nether

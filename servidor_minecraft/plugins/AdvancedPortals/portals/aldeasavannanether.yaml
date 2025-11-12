@@ -1,0 +1,21 @@
+args:
+  particlein:
+  - heart
+  name:
+  - aldeasavannanether
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - aldeasavanna
+  particleout:
+  - cloud
+maxLoc:
+  posX: -204
+  posY: 44
+  posZ: -520
+  worldName: world_nether
+minLoc:
+  posX: -204
+  posY: 40
+  posZ: -524
+  worldName: world_nether

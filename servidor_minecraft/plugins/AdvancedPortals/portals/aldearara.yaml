@@ -1,0 +1,21 @@
+args:
+  particlein:
+  - heart
+  name:
+  - aldearara
+  triggerblock:
+  - WHITE_STAINED_GLASS_PANE
+  destination:
+  - aldeararanether
+  particleout:
+  - heart
+maxLoc:
+  posX: -991
+  posY: 52
+  posZ: 296
+  worldName: world
+minLoc:
+  posX: -991
+  posY: 48
+  posZ: 292
+  worldName: world
